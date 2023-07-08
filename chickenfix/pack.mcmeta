@@ -1,0 +1,6 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": "Quick and dirty fix for chickens in 1x1 spaces suffocating in walls when growing up"
+  }
+}
