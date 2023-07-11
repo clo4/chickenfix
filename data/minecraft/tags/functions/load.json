@@ -1,6 +1,6 @@
 {
   "values": [
     "chickenfix:load",
-    "chickenfix:slow_clock"
+    "chickenfix:loop"
   ]
 }
