@@ -1,3 +1,9 @@
+# Archive notice
+
+This repository has been merged into [clo4/datapacks](https://github.com/clo4/datapacks). This repository is now out of date.
+
+---
+
 # chickenfix
 
 Simple (but performant) brute-force fix to chickens suffocating to death when
